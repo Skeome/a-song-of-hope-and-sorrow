@@ -1,2 +1,2 @@
 # a-song-of-hope-and-sorrow
-C++ project, ToRPG, Raylib,
+C++ project, RPG, Raylib,Turn-based, Top-down
